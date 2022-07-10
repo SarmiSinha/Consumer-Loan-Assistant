@@ -8,11 +8,14 @@ This project will help you get a handle on consumer debt. The Consumer Loan Assi
 
 overview:
 In this project, we will build a consumer loan assistant. You input a loan balance and yearly interest rate. You then have two options: (1) enter the desired number of payments and the loan assistant computes the monthly payment, or (2) enter the desired monthly payment and the loan assistant determines the number of payments you will make. An analysis of your loan, including total of payments and interest paid is also provided. The finished project is saved as LoanAssistant in the \HomeJava\HomeJava Projects\ project group. Start NetBeans (or your IDE). Open the specified project group. Make LoanAssistant the main project. Run the project. You will see:
+![image](https://user-images.githubusercontent.com/109019164/178138528-b9d50475-eff8-400a-ba4e-a90c6bdc8c90.png)
+
 
 
 
 
 All label controls are used for title information. Two button controls are used to compute results and to start a new analysis. Two small button controls (marked with X; only one is seen at a time) control whether you compute the number of payments or the payment amount. One button exits the project. Four text field controls are used for inputs and a large text area is used to present the loan analysis results. The loan assistant appears as:
+
 
 
 
