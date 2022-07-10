@@ -29,6 +29,8 @@ In this initial configuration, you enter a Loan Balance, an Interest Rate (annua
 
 
 So, if I borrow $10,000 at 5.5% interest, I will pay $301.96 for three years (36 months). More specific details on exact payment amounts, including total interest paid, is shown under Loan Analysis. At this point, you can click New Loan Analysis to try some new values:
+![image](https://user-images.githubusercontent.com/109019164/178138626-884c294a-0b26-4b84-970f-4d3553a1ee52.png)
+
 
 
 
