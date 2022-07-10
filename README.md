@@ -40,6 +40,8 @@ Note the Loan Balance, Interest Rate, and Number of Payments entries remain. Onl
 
 
 Notice the Number of Payments box is now yellow. The button with an X has moved to the Monthly Payment text field. In this configuration, you enter a Loan Balance, an Interest Rate and a Monthly Payment. The loan assistant will determine how many payments you need to pay off the loan. Here are some numbers I tried
+![image](https://user-images.githubusercontent.com/109019164/178138684-ee1a648b-b741-45a9-bf7d-072d8c271cbb.png)
+
 
 
 
