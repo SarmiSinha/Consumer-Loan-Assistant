@@ -22,11 +22,14 @@ All label controls are used for title information. Two button controls are used 
 
 
 In this initial configuration, you enter a Loan Balance, an Interest Rate (annual rate as a percentage) and a Number of Payments value. Click Compute Monthly Payment. The payment will appear in the ‘yellow’ text field and a complete loan analysis will appear in the large text field. Here are some numbers I tried:
+![image](https://user-images.githubusercontent.com/109019164/178138600-a7f093aa-c2d5-4443-952b-b4f9cc087ede.png)
+
 
 
 
 
 So, if I borrow $10,000 at 5.5% interest, I will pay $301.96 for three years (36 months). More specific details on exact payment amounts, including total interest paid, is shown under Loan Analysis. At this point, you can click New Loan Analysis to try some new values:
+
 
 
 
