@@ -1,12 +1,10 @@
 # Consumer-Loan-Assistant
-In this project, I have will build a consumer loan assistant project using Java swing library
-Consumer-Loan-Assistant
-(Ever wonder just) How much those credit card accounts are costing you ?
+In this project, I have built a consumer loan assistant project using Java swing library.
 
-Abstract:
+# Abstract:
 This project will help you get a handle on consumer debt. The Consumer Loan Assistant Project you would build computes payments and loan terms given balance and interest information. We look at focus traversal among controls, how to do input validation, and the message box for user feedback.
 
-overview:
+# Overview:
 In this project, we will build a consumer loan assistant. You input a loan balance and yearly interest rate. You then have two options: (1) enter the desired number of payments and the loan assistant computes the monthly payment, or (2) enter the desired monthly payment and the loan assistant determines the number of payments you will make. An analysis of your loan, including total of payments and interest paid is also provided. The finished project is saved as LoanAssistant in the \HomeJava\HomeJava Projects\ project group. Start NetBeans (or your IDE). Open the specified project group. Make LoanAssistant the main project. Run the project. You will see:
 ![image](https://user-images.githubusercontent.com/109019164/178138528-b9d50475-eff8-400a-ba4e-a90c6bdc8c90.png)
 
@@ -36,6 +34,8 @@ So, if I borrow $10,000 at 5.5% interest, I will pay $301.96 for three years (36
 
 
 Note the Loan Balance, Interest Rate, and Number of Payments entries remain. Only the Monthly Payment and the Loan Analysis have been cleared. This lets you try different values with minimal typing of new entries. Change any entry you like to see different results – or even change them all. Try as many combinations as you like. At some point, clear the text fields and click the button with an X next to the Number of Payments text field. You will see:
+![image](https://user-images.githubusercontent.com/109019164/178138638-32c1a6d1-2fb2-4a16-922d-e23f3ed96b05.png)
+
 
 
 
