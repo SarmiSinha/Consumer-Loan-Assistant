@@ -15,11 +15,14 @@ In this project, we will build a consumer loan assistant. You input a loan balan
 
 
 All label controls are used for title information. Two button controls are used to compute results and to start a new analysis. Two small button controls (marked with X; only one is seen at a time) control whether you compute the number of payments or the payment amount. One button exits the project. Four text field controls are used for inputs and a large text area is used to present the loan analysis results. The loan assistant appears as:
+![image](https://user-images.githubusercontent.com/109019164/178138579-2a0d3259-ecb9-4957-8991-7a6402a99cca.png)
+
 
 
 
 
 In this initial configuration, you enter a Loan Balance, an Interest Rate (annual rate as a percentage) and a Number of Payments value. Click Compute Monthly Payment. The payment will appear in the ‘yellow’ text field and a complete loan analysis will appear in the large text field. Here are some numbers I tried:
+
 
 
 
